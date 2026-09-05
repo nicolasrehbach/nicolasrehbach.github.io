@@ -20,11 +20,10 @@ I am a PhD student in Multimodal AI in Medical Imaging at the University Hospita
 
 ## News & Updates
 
-* **[Upcoming]** I will be attending **EuSoMII 2026**, presenting three posters on behalf of our team.
+* **[Upcoming]** I will be attending **EuSoMII 2026**, presenting three posters from our team.
 
 ---
 
-I'll be at EUSOMII 2026, presenting three posters of our team.
 
 ## Publications
 
