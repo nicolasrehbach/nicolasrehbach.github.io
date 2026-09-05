@@ -21,7 +21,10 @@ I am a PhD student in Multimodal AI in Medical Imaging at the University Hospita
 ## News & Updates
 
 * **[Upcoming]** I will be attending **EuSoMII 2026**, presenting three posters from our team.
-
+* **[Jul 2026]** Attended the **Lisbon Machine Learning School (LxMLS 2026)** in Lisbon, Portugal.
+* **[Sep 2025]** Attended **UPEC 2025** and presented our paper: *"Medium Voltage Energy Cable Diagnostics—A Machine-Learning based Condition Assessment Approach"*.
+* **[Mar 2025]** Attended the **European Congress of Radiology (ECR 2025)** in Vienna, Austria.
+* **[Sep 2024]** Attended **UPEC 2024** and presented our paper: *"Medium voltage energy cable diagnostics–service provider experiences and diagnostic information system"*.
 ---
 
 

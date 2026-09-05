@@ -20,7 +20,7 @@ repository               : "nicolasrehbach/nicolasrehbach.github.io"
 # Site Author - Controls author content in the sidebar.
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar_pic.png"
   name             : "Nicolas Rehbach"
   pronouns         : # example: "she/her"
   bio              : "PhD Student on Multimodal AI in Medical Imaging"
