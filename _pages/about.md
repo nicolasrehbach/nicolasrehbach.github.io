@@ -12,7 +12,7 @@ I am a PhD student in Multimodal AI in Medical Imaging at the University Hospita
 ## Research Interests
 
 * **Multimodal AI in Healthcare:** Integrating medical imaging with lab values and radiology reports to help models capture the complex, multi-system nature of human biology.
-* **Foundation Models in Medicine:** Exploring CT foundation models and LLMs in clinical contexts—focusing on where they genuinely add value and where their current limitations lie.
+* **Foundation Models in Medicine:** Exploring CT foundation models and LLMs in clinical contexts focusing on where they genuinely add value and where their current limitations lie.
 * **Model & Data Robustness:** Investigating generalizability across datasets and developing practical ways to quantify bias in medical data and research findings.
 * **AI for Energy Systems:** Applied interactive machine learning for energy infrastructure, including building Energy Information Systems and developing computational methods for precise cable health assessment.
 
